@@ -16,7 +16,7 @@ event_data/2018-11-09-events.csv
 3. Develop `CREATE` statement for each of the tables to address each question
 4. Load the data with `INSERT` statement for each of the tables
 5. Include `IF NOT EXISTS` clauses in `CREATE` statements to create tables only if the tables do not already exist.  
-6. Test by running the proper select statements with the correct WHERE clause
+6. Test by running the proper select statements with the correct `WHERE` clause
 
 
 ### Build ETL Pipeline
@@ -25,3 +25,4 @@ event_data/2018-11-09-events.csv
 3. Test by running `SELECT` statements after running the queries on your database
  
   `Project_1B_ Project_Template.ipynb`  is the main workspace.
+  
